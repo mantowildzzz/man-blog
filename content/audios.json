@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "My First Podcast",
+    "description": "First episode",
+    "coverImage": "/images/audio/cover-1.jpg",
+    "url": "/audio/podcast-1.mp3",
+    "duration": "30:00",
+    "publishedAt": "2026-03-05"
+  }
+]
